@@ -1,0 +1,15 @@
+{
+  "name": "stack-usage",
+  "version": "1.0.0",
+  "description": "A easy approach to use Stack ",
+  "main": "Stack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stack",
+    "node"
+  ],
+  "author": "Rivansh",
+  "license": "ISC"
+}
